@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-html-and-css-XOtJoWUQb4)
 - Live Site URL: [Live Demo](https://imissh3r.github.io/blog-preview-card/)
 
 ## My process
